@@ -15,7 +15,7 @@ export default function Home() {
           {/* Headline */}
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
             <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
-              Build Somethingsss
+              Build Something
             </span>
             <br />
             Amazing Today
